@@ -1,0 +1,17 @@
+{
+  "name": "ethandeveloper2",
+  "version": "1.0.0",
+  "description": "<a href=\"https://steadyg.tistory.com/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/BLOG-000000?style=flat&logo=tistory&logoColor=ffffff\"/></a>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node readmeUpdate.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
