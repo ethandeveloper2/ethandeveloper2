@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
+- [[Google Analytics4] GA4의 Session과 참여율, 이탈율, 활성 사용자](https://steadyg.tistory.com/59)
+- [[Google Analytics4] GA4가 유저를 식별하는 방식](https://steadyg.tistory.com/58)
 - [[Google Analytics] GA 데이터는 어떻게 측정되는가?](https://steadyg.tistory.com/57)
 - [[Google Analytics] Dimension과 Metrics](https://steadyg.tistory.com/56)
 - [[algorithm] Sliding Window 패턴 (슬라이딩 윈도우 패턴)](https://steadyg.tistory.com/55)
-- [[algorithm] Multiple Pointers Pattern (다중 포인터 패턴)](https://steadyg.tistory.com/54)
-- [[algorithm] Frequency Counter 패턴 (빈도수 카운터 패턴)](https://steadyg.tistory.com/53)
 
