@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
+- [[Google Analytics] Dimension과 Metrics](https://steadyg.tistory.com/56)
 - [[algorithm] Sliding Window 패턴 (슬라이딩 윈도우 패턴)](https://steadyg.tistory.com/55)
 - [[algorithm] Multiple Pointers Pattern (다중 포인터 패턴)](https://steadyg.tistory.com/54)
 - [[algorithm] Frequency Counter 패턴 (빈도수 카운터 패턴)](https://steadyg.tistory.com/53)
 - [[algorithm] 알고리즘을 잘 세우기 위한 전략](https://steadyg.tistory.com/52)
-- [[algorithm] Big O 표기법](https://steadyg.tistory.com/51)
 
