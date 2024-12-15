@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
-- [[Next.js] 클라이언트 컴포넌트 (공식 문서)](https://steadyg.tistory.com/62)
-- [[Next.js] 서버 컴포넌트](https://steadyg.tistory.com/61)
+- [[ETC] 모듈 번들러와 Vite, Webpack 비교](https://steadyg.tistory.com/63)
+- [[Next.js] 클라이언트 컴포넌트 (공식 문서 따라가기)](https://steadyg.tistory.com/62)
+- [[Next.js] 서버 컴포넌트(공식 문서 따라가기)](https://steadyg.tistory.com/61)
 - [[Google analytics4] 알아두면 좋을 GA4와 UA의 차이점](https://steadyg.tistory.com/60)
 - [[Google Analytics4] GA4의 Session과 참여율, 이탈율, 활성 사용자](https://steadyg.tistory.com/59)
-- [[Google Analytics4] GA4가 유저를 식별하는 방식](https://steadyg.tistory.com/58)
 
