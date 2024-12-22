@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
+- [[Next.js] Next.js 라우팅 방식의 장점과 다른 방식들과의 차이점](https://steadyg.tistory.com/65)
 - [[Next.js] 왜 우리는 Next.js를 사용하게 되었을까?](https://steadyg.tistory.com/64)
 - [[ETC] 모듈 번들러와 Vite, Webpack 비교](https://steadyg.tistory.com/63)
 - [[Next.js] 클라이언트 컴포넌트 (공식 문서 따라가기)](https://steadyg.tistory.com/62)
 - [[Next.js] 서버 컴포넌트(공식 문서 따라가기)](https://steadyg.tistory.com/61)
-- [[Google analytics4] 알아두면 좋을 GA4와 UA의 차이점](https://steadyg.tistory.com/60)
 
