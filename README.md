@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
-- [[Next.js] Next.js 라우팅 방식의 장점과 다른 방식들과의 차이점](https://steadyg.tistory.com/65)
-- [[Next.js] 왜 우리는 Next.js를 사용하게 되었을까?](https://steadyg.tistory.com/64)
-- [[ETC] 모듈 번들러와 Vite, Webpack 비교](https://steadyg.tistory.com/63)
-- [[Next.js] 클라이언트 컴포넌트 (공식 문서 따라가기)](https://steadyg.tistory.com/62)
-- [[Next.js] 서버 컴포넌트(공식 문서 따라가기)](https://steadyg.tistory.com/61)
+- [상태관리 [5편]: Redux, Zustand, Tanstack Query &mdash; 언제, 무엇을 써야 할까?](https://steadyg.tistory.com/70)
+- [상태관리 [4편]: Tanstack-Query, 왜 프론트엔드에서 상태를 나눠 관리해야 할까?](https://steadyg.tistory.com/69)
+- [상태관리 [3편] - Zustand의 유연함이 대규모 프로젝트에서 어려운 이유](https://steadyg.tistory.com/68)
+- [상태관리 [2편] - Redux vs Zustand 비교 &ndash; 왜 생겼고 언제 쓰는가?](https://steadyg.tistory.com/67)
+- [상태관리 [1편] - Flux 패턴(아키텍처)](https://steadyg.tistory.com/66)
 
