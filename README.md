@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ### Latest Blog Posts
 
 - [자바스크립트의 비동기 실행 흐름 정리](https://steadyg.tistory.com/76)
+- [[RxJS] 3편. RxJS로 CRUD 구현하기 &ndash; 그리고 절차형처럼 느껴지는 부분](https://steadyg.tistory.com/75)
+- [[RxJS] 2편. React에서 RxJS로 상태관리를 한다는 것은?](https://steadyg.tistory.com/74)
+- [[RxJS] 1편. RxJS와 선언형 프로그래밍의 관계](https://steadyg.tistory.com/73)
 - [React에서 useEffect를 꼭 써야 할까? &mdash; 오히려 안 써도 되는 경우가 더 많다](https://steadyg.tistory.com/72)
-- [React를 쓰면서도 몰랐던 선언형 프로그래밍 이야기](https://steadyg.tistory.com/71)
-- [상태관리 [5편]: Redux, Zustand, Tanstack Query &mdash; 언제, 무엇을 써야 할까?](https://steadyg.tistory.com/70)
-- [상태관리 [4편]: Tanstack-Query, 왜 프론트엔드에서 상태를 나눠 관리해야 할까?](https://steadyg.tistory.com/69)
 
