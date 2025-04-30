@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
+- [[Algorithm][LeetCode 2962] Count Subarrays Where Max Element Appears at Least K Times](https://steadyg.tistory.com/78)
 - [[Algorithm][LeetCode 560] Subarray Sum Equals K 문제 풀이 - 누적합과 Hash Map 활용법](https://steadyg.tistory.com/77)
 - [자바스크립트의 비동기 실행 흐름 정리](https://steadyg.tistory.com/76)
 - [[RxJS] 3편. RxJS로 CRUD 구현하기 &ndash; 그리고 절차형처럼 느껴지는 부분](https://steadyg.tistory.com/75)
 - [[RxJS] 2편. React에서 RxJS로 상태관리를 한다는 것은?](https://steadyg.tistory.com/74)
-- [[RxJS] 1편. RxJS와 선언형 프로그래밍의 관계](https://steadyg.tistory.com/73)
 
