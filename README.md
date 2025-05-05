@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
+- [[Problem Solving] Zustand로 폼 상태 최적화하기: Context를 버리고 구독 범위를 좁히다](https://steadyg.tistory.com/83)
 - [[Algorithm][LeetCode 101] Symmetric Tree](https://steadyg.tistory.com/82)
 - [[Algorithm][LeetCode 100] Same Tree](https://steadyg.tistory.com/81)
 - [[Algorithm][LeetCode 96] Unique Binary Search Trees](https://steadyg.tistory.com/80)
 - [[자료구조] 트리(Tree) 자료구조 정리](https://steadyg.tistory.com/79)
-- [[Algorithm][LeetCode 2962] Count Subarrays Where Max Element Appears at Least K Times](https://steadyg.tistory.com/78)
 
