@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
+- [[Algorithm][LeetCode 35] Search Insert Position](https://steadyg.tistory.com/86)
 - [[Problem Solving] 프론트엔드 성능 최적화 기본 개념](https://steadyg.tistory.com/85)
 - [[Algorithm][LeetCode 1920] buildArray](https://steadyg.tistory.com/84)
 - [[Problem Solving] Zustand로 폼 상태 최적화하기: Context를 버리고 구독 범위를 좁히다](https://steadyg.tistory.com/83)
 - [[Algorithm][LeetCode 101] Symmetric Tree](https://steadyg.tistory.com/82)
-- [[Algorithm][LeetCode 100] Same Tree](https://steadyg.tistory.com/81)
 
