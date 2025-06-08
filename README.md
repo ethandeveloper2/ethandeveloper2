@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
+- [[Algorithm][LeetCode 2434][Medium]&nbsp;Using a Robot to Print the Lexicographically Smallest String](https://steadyg.tistory.com/96)
 - [[Algorithm][LeetCode 2929][Medium]&nbsp;Distribute Candies Among Children II](https://steadyg.tistory.com/95)
 - [[Problem Solving][git revert] 현업 Git 브랜치 전략: A 작업 일시 중단 후 B 작업 우선 배포](https://steadyg.tistory.com/94)
 - [[Algorithm][LeetCode 3355][Medium] Zero Array Transformation I](https://steadyg.tistory.com/93)
 - [[Algorithm][LeetCode 2094][Easy]&nbsp;Finding 3-Digit Even Numbers](https://steadyg.tistory.com/92)
-- [[Algorithm][LeetCode 75][Medium] Sort Colors](https://steadyg.tistory.com/91)
 
