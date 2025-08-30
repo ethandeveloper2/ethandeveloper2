@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 ### Latest Blog Posts
 
+- [React Portal 정리](https://steadyg.tistory.com/99)
 - [[Algorithm][LeetCode 3477][Easy] Fruits Into Baskets II](https://steadyg.tistory.com/98)
 - [[Algorithm][LeetCode 3442][Easy]&nbsp;Maximum Difference Between Even and Odd Frequency I](https://steadyg.tistory.com/97)
 - [[Algorithm][LeetCode 2434][Medium]&nbsp;Using a Robot to Print the Lexicographically Smallest String](https://steadyg.tistory.com/96)
 - [[Algorithm][LeetCode 2929][Medium]&nbsp;Distribute Candies Among Children II](https://steadyg.tistory.com/95)
-- [[Problem Solving][git revert] 현업 Git 브랜치 전략: A 작업 일시 중단 후 B 작업 우선 배포](https://steadyg.tistory.com/94)
 
